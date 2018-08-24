@@ -1,0 +1,85 @@
+.header {
+  height : 125px;
+ margin-bottom: 120px;
+
+}
+
+.header img {
+
+  height : 82px;
+  width: 150px;
+
+}
+.halign {
+padding: 5px 25px 5px 300px;
+font-size: 20px;
+
+}
+.halign a{
+  color:#fff;
+}
+
+.head li{
+  padding:0px 35px 0px 35px;
+}
+.iconspace a{
+    padding:5px 15px 0px 15px;
+    color: #fff;
+    font-size: 35px;
+
+}
+@media screen and (max-width: 600px) {
+  .halign {
+  padding: 0px 0px 0px 0px;
+  text-align: center;
+
+  }
+  .head li{
+    padding:0px 5px 0px 5px;
+  }
+  .iconspace a{
+      padding:5px 5px 0px 5px;
+      color: #fff;
+      font-size: 25px;
+
+  }
+}
+.hov a:hover {
+    background-color: #f58634;
+  height: 100%;
+  width:100%;
+  border-radius: 25px;
+  color: #fff;
+  }
+
+  body{
+    background-color: #fff;
+    max-width: 100%;
+  }
+  .welcome {
+    color: #2957a4;
+    font-weight: bold;
+    padding-top: 19px;
+  }
+
+  .welcome h1{
+    text-align: center;
+  }
+  .formi{
+    width: 70px;
+
+  }
+  .space {
+    margin-top: 90px;
+    margin-left: 20px;
+  }
+  .space1 {
+    margin-top: 60px;
+    margin-left: 20px;
+  }
+  .card {
+    padding: 0px 15px 0px 15px;
+  }
+  .space2{
+    padding: 0px 15px 0px 15px;
+  }
